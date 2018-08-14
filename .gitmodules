@@ -1,0 +1,3 @@
+[submodule "busybox_patches"]
+	path = busybox_patches
+	url = ../../osm0sis/android-busybox-ndk.git
